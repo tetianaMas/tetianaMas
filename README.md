@@ -6,11 +6,10 @@
 - Always improve my coding skills and learn new technologies. 
 - Open to constructive feedback.
 
-## You may reach me by the following links: 
+## You may reach me out by the following links: 
 
 - email: tetiana.maslova.qa@gmail.com
 - linkedIn: https://www.linkedin.com/in/tetiana-maslova/?locale=en_US
-- skype: live:tanyamaslovapeach
 
 ## My skills
 

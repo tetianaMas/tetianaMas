@@ -2,10 +2,6 @@
 
 # Junior Front-end developer
 
-- Enthusiastic Front-end Developer eager to contribute to team success through hard work, attention to detail, and good organizational skills. 
-- Always improve my coding skills and learn new technologies. 
-- Open to constructive feedback.
-
 ## You may reach me out by the following links: 
 
 - email: tetiana.maslova.qa@gmail.com

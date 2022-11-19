@@ -1,6 +1,6 @@
 ### Hello, I'm Tetiana 👋
 
-# Junior Front-end developer
+# Front-end developer
 
 ## You may reach me out by the following links: 
 
@@ -15,9 +15,3 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-## My stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tetianaMas&count_private=true&theme=react&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tetianaMas&langs_count=5&theme=react)]()
